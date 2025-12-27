@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Music",
+  "description": "A beautiful, mobile-first music player with AI-enhanced metadata and local storage persistence.",
+  "requestFramePermissions": []
+}
